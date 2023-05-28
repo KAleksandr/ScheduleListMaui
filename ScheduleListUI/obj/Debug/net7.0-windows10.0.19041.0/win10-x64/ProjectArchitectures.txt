@@ -1,0 +1,1 @@
+D:\C#\ScheduleListUI\ScheduleListUI\ScheduleListUI.csproj;x64
